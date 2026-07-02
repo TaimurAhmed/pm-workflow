@@ -10,6 +10,7 @@
 
 **Surface — offer the best one available, in this order:**
 1. **Miro board** (only if a Miro MCP is connected): one frame per section, each with its facilitation prompt as a sticky. Board named `Opportunity Canvas: <run folder name>`.
+   *Layout rules:* everything fits **inside** its frame, nothing overlaps — spacing between stacked stickies must account for the sticky's actual height, not just its centre. After building, **read the board back and verify** no item overlaps another or crosses a frame edge; fix before reporting done. Record the board URL at the top of the archival markdown copy.
 2. **Markdown file** — the universal default; works everywhere. If no Miro MCP is available, use this without interrogating the user (one-line tip that connecting the Miro MCP unlocks board creation is fine). On request, also give a paste-into-Miro variant: a plain bulleted list per section — Miro turns pasted bullets into stickies.
 
 **Always keep a markdown copy** at `runs/<slug>/opportunity-canvas.md` regardless of surface — it's the archival reference for Synthesise. **Naming:** the canvas H1 (and Miro board name) is `Opportunity Canvas: <run folder name>` — artifact and folder always match.
