@@ -1,5 +1,7 @@
 # Stage 1 — Generate (🤖 Claude)
 
+> 📋 **This is a prompt.** Paste it into Claude along with your problem area / product context. (You can also just read it to understand the stage.)
+
 **Goal:** produce a *blank, well-structured* Opportunity Canvas the team can populate. You are creating the working surface, not filling it in.
 
 **Input:** the canvas schema in [`templates/opportunity-canvas.md`](templates/opportunity-canvas.md), plus any context the PM gives you (the rough problem area, the product, the team).

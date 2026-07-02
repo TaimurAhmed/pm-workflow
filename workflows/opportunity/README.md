@@ -10,6 +10,8 @@
 
 ---
 
+> ▶ **New here? Start with [`01-generate.md`](01-generate.md)** — paste it into Claude and go. The three stages below explain the full flow.
+
 ## The three stages
 
 | Stage | Who | What happens | File |

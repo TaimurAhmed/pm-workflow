@@ -1,5 +1,7 @@
 # Stage 3 — Synthesise (🤖 Claude)
 
+> 📋 **This is a prompt.** Paste it into Claude along with your populated canvas (screenshots, transcripts, notes) and the brief template. (You can also just read it to understand the stage.)
+
 **Goal:** turn the *populated, messy* Opportunity Canvas into a polished **Opportunity Brief** — a shareable narrative document, delivered as a properly formatted **`.docx`**.
 
 This is the *canvas → brief* translation: from the team's working surface into a doc a stakeholder can read alone.

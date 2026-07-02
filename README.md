@@ -6,6 +6,20 @@ This repo is two things at once: a **real tool** I use at work, and a **portfoli
 
 ---
 
+## Getting started
+
+**You need:** access to Claude (claude.ai, the desktop app, or Claude Code). Nothing to install.
+
+Every workflow runs in **3 stages**. Here's the Opportunity Workflow:
+
+1. **Generate** — paste [`workflows/opportunity/01-generate.md`](workflows/opportunity/01-generate.md) into Claude and tell it your problem area. It hands back a blank Opportunity Canvas.
+2. **Populate** — your team fills the canvas in together on a whiteboard. This stage is human; no AI.
+3. **Synthesise** — give Claude the filled-in canvas (screenshots, notes) plus [`03-synthesise.md`](workflows/opportunity/03-synthesise.md). It returns a polished Opportunity Brief as a Word doc.
+
+👉 New here? Just do step 1.
+
+---
+
 ## Workflow index
 
 Workflows are added incrementally. Status: ✅ complete · 🚧 coming soon.

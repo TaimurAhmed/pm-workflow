@@ -1,5 +1,7 @@
 # Stage 2 — Populate (👥 Team)
 
+> 👥 **This stage is human — no AI.** It's a facilitation guide for you and your team; there's nothing to paste into Claude here.
+
 **Goal:** the team fills in the blank Opportunity Canvas, collaboratively and offline. This is **human work** — the canvas is a conversation surface, and the value is in the discussion, not in tidy boxes.
 
 Claude does **not** fill this in. Its role here is limited to *preparing inputs* and *answering questions* if asked. Do not fabricate the team's content.
