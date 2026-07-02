@@ -20,3 +20,7 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# Workflow run data — real (possibly confidential) problem statements.
+# Remove this line if your team fork intentionally tracks its runs in git.
+runs/
