@@ -43,4 +43,6 @@ When a step requires a Word document:
 ## Available workflows
 
 - `workflows/opportunity/` — ✅ **Opportunity Workflow** (Generate → Populate → Synthesise → Opportunity Brief)
+- `workflows/ideation/` — 🚧 **Ideation Workflow** (stub)
 - `workflows/solution/` — 🚧 **Solution Workflow** (stub)
+- `workflows/assumption-mapping/` — 🚧 **Assumption Mapping Workflow** (stub)

@@ -28,12 +28,12 @@
 
 The full schema lives in [`templates/opportunity-canvas.md`](templates/opportunity-canvas.md). Sections, in order:
 
-1. **Customer problem** — framework-agnostic statement of the problem.
-2. **User & customer cohorts** — who has this problem.
+1. **User & customer cohorts** — who has this problem.
+2. **Customer problem** — framework-agnostic statement of the problem.
 3. **Solutions today** — how it's solved now (competitor / alternatives analysis).
 4. **Why the business should care** — challenges + potential impact (optional value/time calc).
-5. **Adoption strategy** — per cohort, how they'd discover & adopt a solution.
-6. **Pain/gain + JTBD / empathy pass** — deepen the problem understanding.
+5. **Pain/gain + JTBD / empathy pass** — deepen the problem understanding.
+6. **Adoption strategy** — per cohort, how they'd discover & adopt a solution.
 7. **Impact stack-rank** — simple prioritisation that tees up ideation.
 
 ---

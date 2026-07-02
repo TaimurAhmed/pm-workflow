@@ -34,12 +34,12 @@
 
 ## Section order to generate (from the schema)
 
-1. Customer problem (framework-agnostic)
-2. User & customer cohorts
+1. User & customer cohorts
+2. Customer problem (framework-agnostic)
 3. Solutions today (competitor / alternatives)
 4. Why the business should care (challenges + potential impact; optional value/time calc)
-5. Adoption strategy (per cohort)
-6. Pain/gain + JTBD / empathy pass
+5. Pain/gain + JTBD / empathy pass
+6. Adoption strategy (per cohort)
 7. Impact stack-rank (tees up ideation)
 
 ## Do / Don't

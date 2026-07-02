@@ -43,7 +43,9 @@ Workflows are added incrementally. Status: ✅ complete · 🚧 coming soon.
 | Workflow | What it produces | Status |
 |---|---|---|
 | [Opportunity Workflow](workflows/opportunity/) | Opportunity Canvas → Opportunity Brief | ✅ Complete |
+| [Ideation Workflow](workflows/ideation/) | Stack-ranked HMWs → candidate solution directions | 🚧 Coming soon |
 | [Solution Workflow](workflows/solution/) | Solution Canvas → Solution Doc | 🚧 Coming soon |
+| [Assumption Mapping Workflow](workflows/assumption-mapping/) | Assumption map → riskiest assumptions to test | 🚧 Coming soon |
 | _Future workflows_ | — | 🚧 Coming soon |
 
 ---
