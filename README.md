@@ -8,15 +8,28 @@ This repo is two things at once: a **real tool** I use at work, and a **portfoli
 
 ## Getting started
 
-**You need:** access to Claude (claude.ai, the desktop app, or Claude Code). Nothing to install.
+### Setup (one-time)
 
-Every workflow runs in **3 stages**. Here's the Opportunity Workflow:
+1. **Install Claude Code** — follow [these instructions](https://docs.claude.com/en/docs/claude-code/overview). (Or skip this and use [claude.ai](https://claude.ai) — see the note at the bottom.)
+2. **Clone this repo:**
+   ```bash
+   git clone https://github.com/TaimurAhmed/ai-pm-workflows.git
+   ```
+3. **Open it in Claude Code:**
+   ```bash
+   cd ai-pm-workflows && claude
+   ```
+   Claude reads [`CLAUDE.md`](CLAUDE.md) automatically, so it already knows how to run the workflows.
 
-1. **Step 1 · Generate** — paste [`workflows/opportunity/01-generate.md`](workflows/opportunity/01-generate.md) into Claude and tell it your problem area. It hands back a blank Opportunity Canvas.
+### Run your first workflow (Opportunity)
+
+1. **Step 1 · Generate** — ask Claude: *"Run Step 1 of the Opportunity Workflow for [your problem area]."* It hands back a blank Opportunity Canvas.
 2. **Step 2 · Populate** — your team fills the canvas in together on a whiteboard. This stage is human; no AI.
-3. **Step 3 · Synthesise** — give Claude the filled-in canvas (screenshots, notes) plus [`03-synthesise.md`](workflows/opportunity/03-synthesise.md). It returns a polished Opportunity Brief as a Word doc.
+3. **Step 3 · Synthesise** — give Claude the filled-in canvas (screenshots, notes) and ask it to run Step 3. It returns a polished Opportunity Brief as a Word doc.
 
-👉 New here? Just do **Step 1 · Generate**.
+👉 New here? Just do the setup, then **Step 1 · Generate**.
+
+> **No Claude Code?** You don't need it. Open any prompt file (e.g. [`01-generate.md`](workflows/opportunity/01-generate.md)), copy its contents into [claude.ai](https://claude.ai), and paste your inputs underneath.
 
 ---
 
