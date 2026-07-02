@@ -12,11 +12,11 @@ This repo is two things at once: a **real tool** I use at work, and a **portfoli
 
 Every workflow runs in **3 stages**. Here's the Opportunity Workflow:
 
-1. **Generate** — paste [`workflows/opportunity/01-generate.md`](workflows/opportunity/01-generate.md) into Claude and tell it your problem area. It hands back a blank Opportunity Canvas.
-2. **Populate** — your team fills the canvas in together on a whiteboard. This stage is human; no AI.
-3. **Synthesise** — give Claude the filled-in canvas (screenshots, notes) plus [`03-synthesise.md`](workflows/opportunity/03-synthesise.md). It returns a polished Opportunity Brief as a Word doc.
+1. **Step 1 · Generate** — paste [`workflows/opportunity/01-generate.md`](workflows/opportunity/01-generate.md) into Claude and tell it your problem area. It hands back a blank Opportunity Canvas.
+2. **Step 2 · Populate** — your team fills the canvas in together on a whiteboard. This stage is human; no AI.
+3. **Step 3 · Synthesise** — give Claude the filled-in canvas (screenshots, notes) plus [`03-synthesise.md`](workflows/opportunity/03-synthesise.md). It returns a polished Opportunity Brief as a Word doc.
 
-👉 New here? Just do step 1.
+👉 New here? Just do **Step 1 · Generate**.
 
 ---
 
@@ -26,9 +26,9 @@ Workflows are added incrementally. Status: ✅ complete · 🚧 coming soon.
 
 | Workflow | What it produces | Status |
 |---|---|---|
-| [Opportunity Workflow](workflows/opportunity/) | Opportunity Canvas → Opportunity Brief | ✅ |
-| [Solution Workflow](workflows/solution/) | Solution Canvas → Solution Doc | 🚧 |
-| _Future workflows_ | — | 🚧 |
+| [Opportunity Workflow](workflows/opportunity/) | Opportunity Canvas → Opportunity Brief | ✅ Complete |
+| [Solution Workflow](workflows/solution/) | Solution Canvas → Solution Doc | 🚧 Coming soon |
+| _Future workflows_ | — | 🚧 Coming soon |
 
 ---
 
