@@ -22,25 +22,7 @@ Workflows are added incrementally. Status: ✅ complete · 🚧 coming soon.
 
 These workflows map to the classic **double diamond** (discover → define → develop → deliver). The opinionated twist: **my canvases sit at the pinch points — the waists — not stretched across the whole diamonds.**
 
-```
-   Diamond 1: Problem              Diamond 2: Solution
-   (discover → define)             (develop → deliver)
-
-  wide, unstructured            Solution Canvas
-  discovery up front            opens diamond two
-  (off-canvas)                       │
-        ╲                            ▼
-         ╲      Opportunity      ╱   ╲
-          ╲       Canvas        ╱     ╲
-           ╲        │          ╱       ╲
-            ╲       ▼         ╱         ╲
-   ──────────▶◀───┤waist├──ideation──▶◀──────────▶  delivery tail
-            ╱       ▲         ╲         ╲          (Jira / backlog
-           ╱        │          ╲         ╲          refinement,
-          ╱    Opportunity      ╲         ╲         off-canvas)
-         ╱       Canvas          ╲         ╲
-        ╱     closes diamond one  ╲         ╲
-```
+![Double diamond with the Opportunity Canvas at the convergent close of diamond one and the Solution Canvas at the divergent open of diamond two, ideation bridging the two, and unstructured research and Jira backlog refinement happening off-canvas at the edges.](assets/double-diamond.svg)
 
 - **Opportunity Canvas** sits at the **convergent close of diamond one** — you've done wide discovery and now need to *align on the problem worth solving*.
 - **Solution Canvas** sits at the **divergent open of diamond two** — you start *generating and shaping solutions*.
