@@ -61,7 +61,7 @@ These workflows map to the classic **double diamond** (discover → define → d
 
 ![Double diamond with the Opportunity Canvas at the convergent close of diamond one and the Solution Canvas at the divergent open of diamond two, ideation bridging the two, and unstructured research and Jira backlog refinement happening off-canvas at the edges.](assets/double-diamond.svg)
 
-- **Opportunity Canvas** sits at the **convergent close of diamond one** — you've done the wide divergent discovery and now need to *align on the problem worth solving*.
+- **Opportunity Canvas** sits at the **convergent close of diamond one** — you've done the wide divergent discovery and now need to *align on the opportunity worth pursuing*.
 - **Solution Canvas** sits at the **divergent open of diamond two** — you start *generating and shaping solutions*.
 - **Ideation bridges the middle**, carrying you from problem-alignment into solution-divergence.
 - The **wide divergent discovery** (e.g. user research, data mining, canvassing the team for opinions) and the **narrow delivery tail** (e.g. Jira tickets, backlog refinement) happen **off-canvas**.

@@ -11,13 +11,12 @@ Claude does **not** fill this in. Its role here is limited to *preparing inputs*
 ## How to run the session
 
 - **Surface:** a whiteboard — Miro, FigJam, or physical stickies. Not a doc.
+- **The ground rules on the canvas apply.** Frameworks slot in and out freely; time-box exceeded → skip a step; the numbering is a suggested path, not a sequence — capture insight wherever it lands and reorganise after.
 - **Time-box it.** Discovery is bounded. A gap left open with a noted risk is a valid outcome; analysis paralysis is not.
-- **Work in schema order**, but let the conversation jump around — capture insight wherever it lands and reorganise after.
-- **Framework-agnostic:** reach for JTBD, pains/gains, or empathy mapping only when it unlocks discussion. Drop any lens that produces silence.
 
 ## What "done" looks like
 
-You don't need every box full. You need the team **aligned on the problem worth solving** and a **stack-rank that tees up ideation**. For each section, you've either:
+You don't need every box full. You need the team **aligned on the opportunity worth pursuing** and a **stack-rank of HMWs that tees up ideation**. For each section, you've either:
 
 - captured the team's shared view, **or**
 - explicitly marked it **⚠️ not yet covered** with a one-line note on the risk that carries.

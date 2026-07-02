@@ -1,16 +1,16 @@
 # Opportunity Workflow ✅
 
-**Where it sits:** the convergent close of **diamond one** — you've done wide, unstructured discovery and now need to *align the team on the problem worth solving* before ideating.
+**Where it sits:** the convergent close of **diamond one** — you've done wide, unstructured discovery and now need to *align the team on the opportunity worth pursuing* before ideating.
 
 **What it produces:**
 1. A populated **Opportunity Canvas** (the team's shared working surface)
 2. A polished **Opportunity Brief** as a formatted `.docx` (the stakeholder's narrative doc)
 
-**Inspired by** Jeff Patton's [Opportunity Canvas](https://www.jpattonassociates.com/opportunity-canvas/), adapted with a framework-agnostic problem framing and a pain/gain + JTBD pass.
+**Inspired by** Jeff Patton's [Opportunity Canvas](https://www.jpattonassociates.com/opportunity-canvas/), adapted with Teresa Torres's opportunity framing (problems + desires = opportunities), an evidence-first empathy pass, and an HMW exit that tees up ideation.
 
 ---
 
-> ▶ **New here? Start with [`01-generate.md`](01-generate.md)** — paste it into Claude and go. The three stages below explain the full flow.
+> ▶ **New here?** Type `/generate <canvas title>` in Claude Code (or paste [`01-generate.md`](01-generate.md) into Claude) and go. The three stages below explain the full flow.
 
 ## The three stages
 
@@ -20,7 +20,7 @@
 | **2. Populate** | 👥 Team | The team fills the canvas in offline, collaboratively (Miro / whiteboard). | [`02-populate.md`](02-populate.md) |
 | **3. Synthesise** | 🤖 Claude | Takes the messy populated canvas (screenshots, transcripts, chat) + the brief template and produces the Opportunity Brief `.docx`. | [`03-synthesise.md`](03-synthesise.md) |
 
-> **Ideation happens off-canvas.** The canvas closes with a simple impact stack-rank that *tees up* ideation — but the divergent solution-generation itself belongs to the next workflow, not this one.
+> **Ideation happens off-canvas.** The canvas closes with a stack-rank of HMWs that *tees up* ideation — but the divergent solution-generation itself belongs to the [Ideation Workflow](../ideation/), not this one.
 
 ---
 
@@ -46,10 +46,10 @@ The full template lives in [`templates/opportunity-brief.template.md`](templates
 
 1. **Metadata** — title, author, contributors, date.
 2. **BLUF** — full thesis in 3–5 lines.
-3. **SCQA narrative** — why the customer cares (problem → segments → JTBD → pains/gains) → why the business cares (impact → potential) → competitor analysis.
+3. **SCQA narrative** — why the customer cares (opportunity → cohorts → empathy evidence, pains/gains) → why the business cares (impact → potential) → solutions today.
 4. **The opportunity** — the thesis, tied back to the customer (optional GMV/TAM; mark "not covered this iteration" if skipped).
-5. **HMWs** — How-Might-We questions mapped to customer problems.
-6. **HMWs stack-ranked** — by impact, to tee up ideation.
+5. **HMWs** — How-Might-We questions from canvas box 6, mapped to the opportunities they address.
+6. **HMWs stack-ranked** — by impact (canvas box 7), to tee up ideation.
 
 ---
 

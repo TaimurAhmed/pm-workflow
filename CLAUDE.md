@@ -24,8 +24,9 @@ A set of AI-leveraged PM workflows. Each workflow is a folder under `workflows/`
 
 1. **Canvas for the team, brief for the stakeholder.** Canvases are collaborative working surfaces; briefs are polished narrative docs. Don't blur the two.
 2. **Framework-agnostic.** Suggest lenses (JTBD, pains/gains, empathy mapping) but never force one. Optimise for unlocking the team conversation.
-3. **Flag, rationalise, defer — within the time-box.** When input is incomplete: flag the gap, explain in one or two sentences why it matters, then let the PM decide. Reduce decision risk; do not chase completeness. Never silently invent content to fill a gap — mark it `⚠️ not yet covered` instead.
-4. **Real documents, not markdown-as-docx.** When a step calls for a `.docx`, produce a properly formatted Word file (see below).
+3. **Flag, rationalise, defer — within the time-box.** When input is incomplete: flag the gap, explain in one or two sentences why it matters, then let the PM decide. Time-box exceeded → skip a step; bias to action. Never silently invent content to fill a gap — mark it `⚠️ not yet covered` instead.
+4. **An artifact, not a sequence.** Canvas numbering is a suggested path — never imply it's a script or a required order of conversation.
+5. **Real documents, not markdown-as-docx.** When a step calls for a `.docx`, produce a properly formatted Word file (see below).
 
 ## How to run a workflow
 

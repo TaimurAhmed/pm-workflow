@@ -26,9 +26,9 @@ own brief template when ready. Placeholders use {{double-brace}} notation and
 ## SCQA narrative
 
 ### Why the customer cares
-- **Situation / problem:** {{the customer problem, plainly stated}}
-- **Segments:** {{which cohorts, and how the problem differs across them}}
-- **JTBD:** {{the job(s) to be done}}
+- **The opportunity (canvas box 1):** {{what the customer is trying to do; the problem in the way; the desire}}
+- **Cohorts (canvas box 3):** {{which cohorts, and how the opportunity differs across them}}
+- **Empathy evidence (canvas box 2):** {{what they say / think / do / feel — quotes, interviews, research; guesses marked as guesses}}
 - **Pains / gains:** {{key pains today; gains a solution would unlock}}
 
 ### Why the business cares
