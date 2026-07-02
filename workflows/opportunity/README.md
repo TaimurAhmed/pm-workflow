@@ -28,13 +28,15 @@
 
 The full schema lives in [`templates/opportunity-canvas.md`](templates/opportunity-canvas.md). Sections, in order:
 
-1. **User & customer cohorts** — who has this problem.
-2. **Customer problem** — framework-agnostic statement of the problem.
-3. **Solutions today** — how it's solved now (competitor / alternatives analysis).
-4. **Why the business should care** — challenges + potential impact (optional value/time calc).
-5. **Pain/gain + JTBD / empathy pass** — deepen the problem understanding.
-6. **Adoption strategy** — per cohort, how they'd discover & adopt a solution.
-7. **Impact stack-rank** — simple prioritisation that tees up ideation.
+1. **Customer problem & desire — the opportunity** — what they're trying to do; problems + desires = opportunities (Torres).
+2. **Empathy pass** — say / think / do / feel, on real evidence; guesses marked as guesses.
+3. **User & customer cohorts** — each side of the platform; you design for a specific cohort.
+4. **Solutions today** — competitors, operational processes, existing features — or living with it.
+5. **Why the business should care** — a number the business tracks; cost of doing nothing; t-shirt sizing or TAM.
+6. **How might we…?** — HMW questions from boxes 1–5, each mapped back to its box.
+7. **Impact stack-rank** — rank the HMWs; tees up ideation (off-canvas).
+
+Ground rules sit outside the canvas: frameworks slot in and out freely · time-box exceeded → skip a step · it's an insight-capture artifact, not a sequence.
 
 ---
 

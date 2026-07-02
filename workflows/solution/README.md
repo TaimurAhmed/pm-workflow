@@ -18,4 +18,6 @@
 
 > The wide divergent ideation that *feeds* this canvas happens off-canvas; the Solution Canvas sits at the waist where the team converges on a direction worth specifying.
 
+**Planned content note:** adoption strategy (how each cohort discovers, tries, and adopts) lives here — it was deliberately moved out of the Opportunity Canvas, since thinking it through presupposes a solution shape.
+
 _Check back — or follow the repo for updates._

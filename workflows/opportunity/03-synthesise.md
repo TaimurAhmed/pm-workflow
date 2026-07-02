@@ -38,8 +38,8 @@ This is the *canvas → brief* translation: from the team's working surface into
    - *Why the business cares* — impact → potential.
    - *Competitor analysis* — solutions today.
 4. **The opportunity** — the thesis, tied back to the customer. Optional GMV/TAM (mark "Not covered this iteration" if skipped).
-5. **HMWs** — How-Might-We questions, each mapped to a customer problem.
-6. **HMWs stack-ranked** — ordered by impact, to tee up ideation.
+5. **HMWs** — How-Might-We questions from canvas box 6, each mapped back to the opportunity (box) it addresses.
+6. **HMWs stack-ranked** — ordered by impact (canvas box 7), to tee up ideation.
 
 ---
 

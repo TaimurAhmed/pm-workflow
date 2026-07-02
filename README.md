@@ -75,11 +75,14 @@ These workflows map to the classic **double diamond** (discover → define → d
 **1. Canvas for the team, brief for the stakeholder.**
 Canvases are messy collaborative surfaces (the whiteboard); briefs are the polished narrative a stakeholder reads alone. The AI translates one into the other.
 
-**2. Framework-agnostic.**
-JTBD, pains/gains, empathy mapping — use whatever unlocks the conversation. The framework serves the discussion, not the other way round.
+**2. Framework-agnostic, not framework-averse.**
+JTBD, pains/gains, empathy mapping — slot them in and out freely; use whatever unlocks the conversation. Stack-rank on SWAGs? Cool. Quotes over JTBD? Happy days. The framework serves the discussion, not the other way round.
 
 **3. Flag, rationalise, defer — within the time-box.**
-When input is thin, the AI flags the gap, says why it matters, and lets the PM decide. The goal is reducing decision risk, not chasing completeness.
+When input is thin, the AI flags the gap, says why it matters, and lets the PM decide. Time-box exceeded? Skip a step — bias to action. The goal is reducing decision risk, not chasing completeness.
+
+**4. An artifact, not a sequence.**
+The canvas captures insight however your team works — fill it in any order, or all at once. No magic sequence of conversation produces a silver-bullet opportunity.
 
 ---
 
@@ -121,4 +124,4 @@ ai-pm-workflows/
 
 Licensed under [MIT](LICENSE).
 
-The Opportunity Canvas schema is inspired by **Jeff Patton's [Opportunity Canvas](https://www.jpattonassociates.com/opportunity-canvas/)**. Narrative structuring draws on **SCQA** (Barbara Minto's *Pyramid Principle*) and **BLUF** (bottom line up front). These are adapted, not reproduced — credit to the originators.
+The Opportunity Canvas schema is inspired by **Jeff Patton's [Opportunity Canvas](https://www.jpattonassociates.com/opportunity-canvas/)**, with opportunity framing after **Teresa Torres** (problems + desires = opportunities), pains/gains after **Alex Osterwalder**, and empathy mapping after **Dave Gray**. Narrative structuring draws on **SCQA** (Barbara Minto's *Pyramid Principle*) and **BLUF** (bottom line up front). These are adapted, not reproduced — credit to the originators.

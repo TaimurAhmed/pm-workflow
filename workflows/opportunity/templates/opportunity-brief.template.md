@@ -53,11 +53,11 @@ own brief template when ready. Placeholders use {{double-brace}} notation and
 
 ---
 
-## How-Might-We questions (mapped to customer problems)
+## How-Might-We questions (mapped to opportunities)
 
-| HMW | Customer problem it addresses |
+| HMW | Opportunity it addresses (canvas box) |
 |---|---|
-| How might we {{...}}? | {{problem from section above}} |
+| How might we {{...}}? | {{opportunity from the canvas, with its box number}} |
 | How might we {{...}}? | {{...}} |
 
 ---
