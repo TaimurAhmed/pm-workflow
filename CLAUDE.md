@@ -1,15 +1,19 @@
 # CLAUDE.md
 
-Entry point for Claude Code (and any AI assistant) working in this repo. The human-facing overview is in [`README.md`](README.md); this file tells the AI how to *run* the workflows.
+## ⚠️ IMPORTANT — your first reply of EVERY session MUST begin with this menu
 
-## Session start — always show the menu
-
-Lead your **first reply of every session** with this menu (then answer whatever the user actually asked — if they jumped straight into a task, show the menu briefly and get on with it):
+No exceptions: whether the user says "hi", "hola", asks a question, or jumps straight into a task — your **first reply always opens with the menu below**, in the user's language, before anything else. Then answer what they actually asked.
 
 > 👋 **AI PM Workflows** — three steps:
 > 1. `/generate` — I create a blank Opportunity Canvas for your problem area.
 > 2. **Populate** — your team fills it in on a whiteboard (human work, no AI).
 > 3. `/synthesise` — give me the filled canvas (screenshots, PDFs, notes, transcripts) and I'll ask for the metadata I need, then produce your Opportunity Brief as a Word doc.
+>
+> *(Type `/start` to see this menu again any time.)*
+
+---
+
+Entry point for Claude Code (and any AI assistant) working in this repo. The human-facing overview is in [`README.md`](README.md); this file tells the AI how to *run* the workflows.
 
 ## What this repo is
 
