@@ -34,29 +34,29 @@ Workflows are added incrementally. Status: ✅ complete · 🚧 coming soon.
 
 ## The mental model: a double diamond with canvases at the waists
 
-These workflows map to the classic **double diamond** (discover → define → develop → deliver). The opinionated twist: **my canvases sit at the pinch points — the waists — not stretched across the whole diamonds.**
+These workflows map to the classic **double diamond** (discover → define → develop → deliver). **My canvases sit at the pinch points — the waists — not stretched across the whole diamonds.**
 
 ![Double diamond with the Opportunity Canvas at the convergent close of diamond one and the Solution Canvas at the divergent open of diamond two, ideation bridging the two, and unstructured research and Jira backlog refinement happening off-canvas at the edges.](assets/double-diamond.svg)
 
-- **Opportunity Canvas** sits at the **convergent close of diamond one** — you've done wide discovery and now need to *align on the problem worth solving*.
+- **Opportunity Canvas** sits at the **convergent close of diamond one** — you've done the wide divergent discovery and now need to *align on the problem worth solving*.
 - **Solution Canvas** sits at the **divergent open of diamond two** — you start *generating and shaping solutions*.
 - **Ideation bridges the middle**, carrying you from problem-alignment into solution-divergence.
-- The **wide divergent discovery** (unstructured research up front) and the **narrow delivery tail** (Jira tickets, backlog refinement) happen **off-canvas**.
+- The **wide divergent discovery** (e.g. user research, data mining, canvassing the team for opinions) and the **narrow delivery tail** (e.g. Jira tickets, backlog refinement) happen **off-canvas**.
 
-**Why off-canvas at the edges?** Canvases earn their place only at the moments that genuinely need *structured, collaborative alignment*. Early discovery is messy and exploratory by design; late delivery is granular execution. Forcing a canvas onto either just adds ceremony. The waist is where a team most needs to look at one shared surface and agree.
+**Why off-canvas at the edges?** Canvases earn their place only at the moments that need *structured, collaborative alignment*. Wide discovery is messy and exploratory by design; the delivery tail is granular execution — forcing a canvas onto either just adds ceremony. I may build AI workflows for those ends later, but that work rarely transfers between organisations, so it's not where I chose to invest first.
 
 ---
 
 ## Core philosophy
 
 **1. Canvas for the team, brief for the stakeholder.**
-Canvases are *collaborative working surfaces* — they live on a whiteboard (Miro, FigJam, a wall of stickies). They're where the team argues, aligns, and converges. **Briefs** synthesise that messy surface into a *shareable narrative document* a stakeholder can read on their own. Different audiences, different artifacts. The AI's job in synthesis is to translate from one to the other.
+Canvases are messy collaborative surfaces (the whiteboard); briefs are the polished narrative a stakeholder reads alone. The AI translates one into the other.
 
 **2. Framework-agnostic.**
-The point is the **team conversation**, not the framework. JTBD vs. needs vs. pains/gains vs. empathy mapping — use whatever unlocks discussion in the room. The canvas schemas *suggest* lenses; none are mandatory. A framework that produces silence is the wrong framework.
+JTBD, pains/gains, empathy mapping — use whatever unlocks the conversation. The framework serves the discussion, not the other way round.
 
 **3. Flag, rationalise, defer — within the time-box.**
-When input is incomplete, the AI should **flag the gap**, **briefly explain why it matters**, then **let the PM decide** whether to fill it or defer it. The goal is **reducing decision risk**, not chasing completeness into analysis paralysis. Discovery is time-boxed; "we don't know this yet, and here's the risk that carries" is a valid, documented output.
+When input is thin, the AI flags the gap, says why it matters, and lets the PM decide. The goal is reducing decision risk, not chasing completeness.
 
 ---
 
