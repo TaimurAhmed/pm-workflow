@@ -46,3 +46,6 @@ When a step requires a Word document:
 - `workflows/ideation/` — 🚧 **Ideation Workflow** (stub)
 - `workflows/solution/` — 🚧 **Solution Workflow** (stub)
 - `workflows/assumption-mapping/` — 🚧 **Assumption Mapping Workflow** (stub)
+- `workflows/product-vision/` — 🚧 **Product Vision Workflow** (stub)
+- `workflows/product-strategy/` — 🚧 **Product Strategy Workflow** (stub)
+- `workflows/roadmap/` — 🚧 **Roadmap Workflow** (stub)
