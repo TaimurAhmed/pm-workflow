@@ -2,6 +2,15 @@
 
 Entry point for Claude Code (and any AI assistant) working in this repo. The human-facing overview is in [`README.md`](README.md); this file tells the AI how to *run* the workflows.
 
+## Session start — always show the menu
+
+Lead your **first reply of every session** with this menu (then answer whatever the user actually asked — if they jumped straight into a task, show the menu briefly and get on with it):
+
+> 👋 **AI PM Workflows** — three steps:
+> 1. `/generate` — I create a blank Opportunity Canvas for your problem area.
+> 2. **Populate** — your team fills it in on a whiteboard (human work, no AI).
+> 3. `/synthesise` — give me the filled canvas (screenshots, PDFs, notes, transcripts) and I'll ask for the metadata I need, then produce your Opportunity Brief as a Word doc.
+
 ## What this repo is
 
 A set of AI-leveraged PM workflows. Each workflow is a folder under `workflows/`. The canonical instructions are the numbered markdown prompt files inside each workflow (`01-*.md`, `02-*.md`, …) — they are self-contained and tool-agnostic. This file just points you at them.
