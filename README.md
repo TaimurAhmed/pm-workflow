@@ -23,11 +23,11 @@ This repo is two things at once: a **real tool** I use at work, and a **portfoli
 
 ### Run your first workflow (Opportunity)
 
-1. **Step 1 · Generate** — type `/generate` followed by your problem area. Claude hands back a blank Opportunity Canvas (saved under `runs/`).
+1. **Step 1 · Generate** — type `/generate` followed by a canvas title (who's struggling with what), e.g. `/generate Homeowners don't rebook after their first job`. Claude hands back a blank Opportunity Canvas (saved under `runs/`).
 2. **Step 2 · Populate** — your team fills the canvas in together on a whiteboard. This stage is human; no AI.
-3. **Step 3 · Synthesise** — type `/synthesise` and give Claude the filled-in canvas (screenshots, PDFs, notes). It asks for the metadata it needs, then returns a polished Opportunity Brief as a Word doc.
+3. **Step 3 · Synthesise** — type `/synthesise` and follow along: Claude asks for the filled-in canvas (screenshots, PDFs, notes) and the metadata it needs, then returns a polished Opportunity Brief as a Word doc.
 
-*(Not sure where to start? Just say "hi" — Claude greets you with this menu.)*
+*(Lost at any point? Type `/start` for the menu.)*
 
 👉 New here? Just do the setup, then **Step 1 · Generate**.
 
