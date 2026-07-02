@@ -15,6 +15,7 @@ This repo is two things at once: a **real tool** I use at work, and a **portfoli
    ```bash
    git clone https://github.com/TaimurAhmed/ai-pm-workflows.git
    ```
+   *Tip: for a specific engagement, clone into a project-named folder instead — e.g. `git clone <url> pm-workflows-checkatrade` — so each project keeps its own `runs/` history.*
 3. **Open it in Claude Code:**
    ```bash
    cd ai-pm-workflows && claude

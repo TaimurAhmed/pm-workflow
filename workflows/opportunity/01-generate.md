@@ -6,7 +6,13 @@
 
 **Input:** the canvas schema in [`templates/opportunity-canvas.md`](templates/opportunity-canvas.md), plus any context the PM gives you (the rough problem area, the product, the team).
 
-**Output:** a clean, empty Opportunity Canvas — ready to drop onto a whiteboard (Miro / FigJam) or hand to the team. Default to a markdown canvas with clearly labelled, empty sections and one-line prompts per section. If the PM asks, also produce a layout description suitable for a Miro board (a grid of frames, one per section).
+**Output:** a clean, empty Opportunity Canvas — ready to drop onto a whiteboard (Miro / FigJam) or hand to the team.
+
+**Surface — offer the best one available, in this order:**
+1. **Miro board** (only if a Miro MCP is connected): one frame per section, each with its facilitation prompt as a sticky. Board named `Opportunity Canvas: <run folder name>`.
+2. **Markdown file** — the universal default; works everywhere. If no Miro MCP is available, use this without interrogating the user (one-line tip that connecting the Miro MCP unlocks board creation is fine). On request, also give a paste-into-Miro variant: a plain bulleted list per section — Miro turns pasted bullets into stickies.
+
+**Always keep a markdown copy** at `runs/<slug>/opportunity-canvas.md` regardless of surface — it's the archival reference for Synthesise. **Naming:** the canvas H1 (and Miro board name) is `Opportunity Canvas: <run folder name>` — artifact and folder always match.
 
 ---
 
